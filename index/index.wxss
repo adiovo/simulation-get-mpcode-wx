@@ -1,0 +1,23 @@
+.user_info {
+  width: 100rpx;
+  line-height: 75rpx;
+  margin: 40rpx auto !important;
+}
+
+button:not([size=mini]) {
+  width: 65% !important;
+}
+
+
+.tips {
+  width: 75%;
+  margin: auto;
+  color: rgb(32, 179, 32);
+}
+
+.code {
+  width: 75%;
+  margin: 20rpx auto 0;
+  text-decoration: underline;
+  color: green;
+}

@@ -1,0 +1,3 @@
+<button class="user_info" open-type="getUserInfo" bindtap="bindGetUserInfo">点我重新获取授权Code码</button>
+<view class="tips">{{tips}}</view>
+<view class="code">{{code}}</view>
