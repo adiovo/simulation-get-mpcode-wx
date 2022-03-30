@@ -11,10 +11,3 @@
 2.  点击：**[simulationLoginGetCode 代码片段](https://developers.weixin.qq.com/s/X620c9m47ayk)**
 
 ### Tips：建议微信开发者工具使用 >= 1.03+版本，因为官方从1.02.1812180版本开始替换了新版的代码片段格式，而该代码片段使用的版本是1.05版编写，所以...
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
