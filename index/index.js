@@ -24,13 +24,14 @@ Page({
               title: 'Code复制成功！',
               icon: 'success'
             })
+            
+            _this.setData({
+              code: res.code,
+              tips: 'Code复制成功，请 Ctrl + V 使用！（有效期在五分钟内使用，并只限使用一次）'
+            })
           }
-        });
-
-        _this.setData({
-          code: res.code,
-          tips: 'Code复制成功，请 Ctrl + V 使用！（有效期在五分钟内使用，并只限使用一次）'
         })
+        
       }
     })
   },
